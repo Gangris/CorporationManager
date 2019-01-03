@@ -1,0 +1,4 @@
+/frontend/config/*.*
+/frontend/node_modules
+/webapi/config/*.*
+/webapi/node_modules
