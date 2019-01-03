@@ -1,4 +1,4 @@
-const config = require("./config/mysql.conf.js"),
+const config = require("./config/webapi.conf.js"),
     restify = require("restify"),
     restifyPlugins = require("restify-plugins"),
     mysql = require("mysql");
